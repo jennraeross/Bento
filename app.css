@@ -21,13 +21,13 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
-  --sfg: #494949; /* Sceondary Foreground color */
+  --fg: #2E3440; /* Foreground color */
+  --sfg: #3B4252; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #4d7d39; /* Hover color */
-  --background: #f5f5f5; /* Background color */
-  --cards: #e4e6e6; /* Cards color */
+  --accent: #5E81AC; /* Hover color */
+  --background: #E5E9F0; /* Background color */
+  --cards: #D8DEE9; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
